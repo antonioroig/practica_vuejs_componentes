@@ -1,6 +1,6 @@
 * VueJS: Componentes
 El objetivo de esta práctica es profundizar en el uso del framework [[https://vuejs.org/][VueJS]]. Utilizaremos como material de base los videotutoriales siguientes (en inglés con subtítulos en castellano):
-- https://vueschool.io/courses/vuejs-components-fundamentals
+- https://vueschool.io/lessons/course-introduction
 - Documentación completa de VueJS: https://vuejs.org/guide/introduction.html
 
 ** Archivos de la práctica
